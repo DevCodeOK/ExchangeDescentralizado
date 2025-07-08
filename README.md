@@ -55,10 +55,10 @@ getPrice(): Devuelve el precio estimado de uno de los tokens
 
 └── SimpleDEX.sol   // Contrato principal del DEX
 
-## Verificación
+#### Verificación
 Todos los contratos están verificados en Etherscan
 
-## Licencia
+#### Licencia
 Este proyecto está bajo la licencia MIT.
 
 #### Autor
